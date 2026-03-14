@@ -94,47 +94,8 @@ customer-churn-analysis-python/
 ├── README.md                    # Project documentation (this file)
 ├── CustomerChurn.ipynb          # Main Jupyter notebook with complete analysis
 ├── Customer Churn.csv           # Dataset (7,043 customer records)
-└── visualizations/              # Generated charts (optional folder)
-    ├── churn_by_seniorcitizen.png
-    ├── churn_by_payment_method.png
-    └── tenure_analysis.png
+
 ```
-
----
-
-## 🚀 How to Run This Analysis
-
-### **Prerequisites**
-```bash
-Python 3.7 or higher
-Jupyter Notebook
-Anaconda Distribution (recommended)
-```
-
-### **Installation Steps**
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/darshildave20/customer-churn-analysis-python.git
-cd customer-churn-analysis-python
-```
-
-2. **Install required libraries**
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-Or if using Anaconda:
-```bash
-conda install pandas numpy matplotlib seaborn jupyter
-```
-
-3. **Launch Jupyter Notebook**
-```bash
-jupyter notebook CustomerChurn.ipynb
-```
-
-4. **Run all cells** to reproduce the analysis
 
 ---
 
@@ -149,21 +110,6 @@ jupyter notebook CustomerChurn.ipynb
 
 ---
 
-## 📈 Sample Visualizations
-
-### Churn Distribution by Senior Citizen Status
-Analysis of churn patterns between senior and non-senior customers using countplot with labeled bars.
-
-### Payment Method Analysis
-Comparison of churn rates across different payment methods (Electronic check, Mailed check, Bank transfer, Credit card).
-
-### Tenure Impact on Retention
-Visualization showing the strong correlation between customer tenure and retention rates.
-
-*Note: All visualizations include data labels for precise value interpretation*
-
----
-
 ## 🎓 Skills Demonstrated
 
 ✅ **Data Cleaning:** Handling missing values, data type conversions, data quality checks  
@@ -175,25 +121,6 @@ Visualization showing the strong correlation between customer tenure and retenti
 
 ---
 
-## 🔮 Future Enhancements
-
-- [ ] Build predictive model for churn probability using machine learning
-- [ ] Create customer risk segmentation (High/Medium/Low churn risk)
-- [ ] Develop interactive dashboard using Plotly or Power BI
-- [ ] Perform correlation analysis between all features
-- [ ] Calculate customer lifetime value (CLV) analysis
-- [ ] Implement A/B testing framework for retention strategies
-
----
-
-## 📚 Key Learnings
-
-- **Data Quality Matters:** Proper handling of missing values and data types is crucial for accurate analysis
-- **Visualization Clarity:** Adding data labels to plots significantly improves interpretability
-- **Tenure is Critical:** Early customer engagement is key to long-term retention
-- **Segment-Specific Strategies:** Different customer segments require tailored retention approaches
-
----
 
 ## 👤 About the Analyst
 
@@ -207,22 +134,5 @@ Microsoft PL-300 Certified | Actively Upskilling in Python for Data Analysis
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- Dataset: Telecommunications customer churn data (7,043 records)
-- Tools: Anaconda Python Distribution
-- Developed as part of continuous learning in Python data analysis and EDA techniques
-
----
-
-**⭐ If you find this analysis helpful, please consider giving it a star!**
-
----
 
 *Last Updated: March 2026*
