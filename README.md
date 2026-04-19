@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project analyzes **customer churn patterns** in a telecommunications dataset of **7,043 customers** using Python. Through comprehensive Exploratory Data Analysis (EDA), the project identifies key factors influencing customer retention and provides data-driven insights for reducing churn rates.
+This project analyzes **customer churn patterns** in a telecommunications dataset of **7,043 customers** using Python. Through comprehensive Exploratory Data Analysis (EDA), the project identifies key factors influencing customer retention and provides data-driven insights for reducing churn rates
 
 ---
 
